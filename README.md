@@ -3,4 +3,4 @@
 
 |기간|주제|ReadMe|
 |------|---|---|
-|11/15~11/21|개인프로젝트 1주차: 팀빌딩, 프로젝트 기획|1주차 ReadMe|
+|11/15~11/21|개인프로젝트 1주차: 팀빌딩, 프로젝트 기획|[1주차 ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/1)|
