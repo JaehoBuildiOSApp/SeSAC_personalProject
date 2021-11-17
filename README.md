@@ -1,13 +1,12 @@
 # SeSAC_personalProject
 
 ### 1. App 개요
- - 하루에 정해진 시간에만 글쓰기(일기, 계획, 반성 등)가 가능한 습관 형성 iOS App
+ - 하루에 정해진 시간에만 글쓰기(일기, 계획, 반성 등)가 가능한 습관 형성 iOS App(https://www.notion.so/d345a8a860b9494f8c1d9685f1bea7dc)
 
 ### 2. 계획
 
 |기간별 목표|iterations|ReadMe|
 |------|---|---|
-|앱 소개 및 UI|iteration0: 파일 참고|ReadMe()|
 |11/15~11/17|iteration1: 팀빌딩, 프로젝트 기획|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/1)|
 |11/18~11/19|iteration2: 팀모임, 프로젝트 발표, 기획 보완|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/2)|
 |11/20~11/20|iteration3: 팀모임, VC1: 글 유형 선택(tableview), VC2: 글작성시간/알람저장(time picker), VC2->VC1 화면전환|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/3)|
