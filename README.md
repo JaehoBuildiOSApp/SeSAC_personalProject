@@ -1,7 +1,7 @@
 # SeSAC_personalProject
 하루에 정해진 시간에만 글쓰기(일기, 계획, 반성 등)가 가능한 습관 형성 iOS App
 
-|개인프로젝트 기간별 계획|내용|ReadMe|
+|기간별 목표|내용|ReadMe|
 |------|---|---|
 |11/15~11/17|이터레이션1: 팀빌딩, 프로젝트 기획|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/1)|
 |11/18~11/19|이터레이션2: 팀모임, 프로젝트 발표, 기획 보완|[ReadMe]|
