@@ -7,6 +7,7 @@
 
 |기간별 목표|iterations|ReadMe|
 |------|---|---|
+|앱 소개 및 UI|iteration0: 파일 참고|ReadMe()|
 |11/15~11/17|iteration1: 팀빌딩, 프로젝트 기획|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/1)|
 |11/18~11/19|iteration2: 팀모임, 프로젝트 발표, 기획 보완|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/2)|
 |11/20~11/20|iteration3: 팀모임, VC1: 글 유형 선택(tableview), VC2: 글작성시간/알람저장(time picker), VC2->VC1 화면전환|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/3)|
