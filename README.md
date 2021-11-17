@@ -1,7 +1,8 @@
 # SeSAC_personalProject
 
 ### 1. App 개요
- - 하루에 정해진 시간에만 글쓰기(일기, 계획, 반성 등)가 가능한 습관 형성 iOS App(https://www.notion.so/d345a8a860b9494f8c1d9685f1bea7dc)
+ - 하루에 정해진 시간에만 글쓰기(일기, 계획, 반성 등)가 가능한 습관 형성 iOS App
+(https://www.notion.so/b401f43820e44ec7861e7cf6139ab633)
 
 ### 2. 계획
 
