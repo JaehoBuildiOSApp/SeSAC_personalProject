@@ -11,7 +11,7 @@
 |11/18~11/19|iteration2: 팀모임, 프로젝트 발표, 기획 보완|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/2)|
 |11/20~11/20|iteration3: 팀모임, VC1: 글 유형 선택(tableview), VC2: 글작성시간/알람저장(time picker), VC2->VC1 화면전환|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/3)|
 |11/21~11/21|iteration4: 팀모임, 정해진 시간에 알람 울리게 하기, VC3 일기 작성화면, VC3->VC1 화면전환|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/4)|
-|11/22~11/23|iteration5: 팀모임, VC4: 그림일기 작성화면, VC5:계확 작성화면,VC4->VC1&VC5->VC1, VC6:글목록,VC7:글확인|[ReadMe]|
+|11/22~11/23|iteration5: 팀모임, VC4: 그림일기 작성화면, VC5:계확 작성화면,VC4->VC1&VC5->VC1, VC6:글목록,VC7:글확인|[ReadMe](https://github.com/JaehoBuildiOSApp/SeSAC_personalProject/issues/5)|
 |11/24~11/26|iteration6: 팀모임, 맥북에서 사용할 수 있게 하기(데이터 베이스), 그 외 의견 수렴 및 반영|[ReadMe]|
 |11/27~11/29|iteration7: 팀모임, VC8: 사용자 설정 화면(글씨크기, 글꼴, 백업), 그 외 의견 수렴 및 반영|[ReadMe]|
 |11/30~12/12|iteration8: 팀모임, 앱 출시, 보완, 대응, 그 외 의견 수렴 및 반영 |[ReadMe]|
